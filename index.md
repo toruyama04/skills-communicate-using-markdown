@@ -8,3 +8,7 @@
 ``` cpp
 char welcome[] = "Hello, world!";
 ```
+
+- [ ] omnipotent
+- [ ] omniscient
+- [ ] omnipresent
